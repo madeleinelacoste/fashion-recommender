@@ -1,0 +1,9 @@
+data/raw/
+data/sample/
+data/*.duckdb
+data/*.duckdb.wal
+results/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
